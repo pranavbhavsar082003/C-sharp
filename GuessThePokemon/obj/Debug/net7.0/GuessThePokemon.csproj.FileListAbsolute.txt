@@ -1,0 +1,15 @@
+C:\Users\17058\Desktop\GuessThePokemon\bin\Debug\net7.0\GuessThePokemon.exe
+C:\Users\17058\Desktop\GuessThePokemon\bin\Debug\net7.0\GuessThePokemon.deps.json
+C:\Users\17058\Desktop\GuessThePokemon\bin\Debug\net7.0\GuessThePokemon.runtimeconfig.json
+C:\Users\17058\Desktop\GuessThePokemon\bin\Debug\net7.0\GuessThePokemon.dll
+C:\Users\17058\Desktop\GuessThePokemon\bin\Debug\net7.0\GuessThePokemon.pdb
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.csproj.AssemblyReference.cache
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.AssemblyInfoInputs.cache
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.AssemblyInfo.cs
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.csproj.CoreCompileInputs.cache
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.dll
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\refint\GuessThePokemon.dll
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.pdb
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\GuessThePokemon.genruntimeconfig.cache
+C:\Users\17058\Desktop\GuessThePokemon\obj\Debug\net7.0\ref\GuessThePokemon.dll
